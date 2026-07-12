@@ -1,3 +1,8 @@
+/*
+Program: SUM OF DIGITS IN A NUMBER
+Language: C
+AUTHOR : Aaditya
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
