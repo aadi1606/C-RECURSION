@@ -1,3 +1,8 @@
+/*
+Program: FACTORIAL OF NUMBER
+Language: C
+AUTHOR : Aaditya
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
